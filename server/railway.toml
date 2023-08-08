@@ -1,0 +1,3 @@
+[runtime]
+  [env]
+    DATABASE_URI='postgresql://zghlqmdh:cz8qbBEDtsPP6ZLf7yq5VMLRom0Hehoo@drona.db.elephantsql.com/zghlqmdh'
